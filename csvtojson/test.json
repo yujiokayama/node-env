@@ -1,12 +1,8 @@
 [
-    {
-        "title1": "a",
-        "title2": "b",
-        "title3": "c"
-    },
-    {
-        "title1": "d",
-        "title2": "e",
-        "title3": "f"
-    }
+ {
+  "title1": "a",
+  "title2": "b",
+  "title3": "c",
+  "title4": "d"
+ }
 ]
